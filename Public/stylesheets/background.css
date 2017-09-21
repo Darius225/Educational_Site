@@ -1,0 +1,12 @@
+body
+{
+   background-color: #00ff00 ;
+   font-family: "Times New Roman" , Times , Serif ;
+   font-size: 100% ;
+}
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: blue;
+}
